@@ -6,4 +6,4 @@
 - gsap
 - transform3d (Достижения паралакс эффекта)
 
-<a href="#">Посмотреть демо</a>
+<a href="https://bardtoyn.github.io/ParallaxEffect/" target="blank_">Посмотреть демо</a>
